@@ -3,7 +3,7 @@
   "app": "pipenv run python main.py",
   "projectId": "78260abb-dde1-4d79-b07d-391fd4c19003",
   "sendCrashReports": "true",
-  "terraformProviders": [],
+  "terraformProviders": ["snowflake"],
   "terraformModules": [],
   "codeMakerOutput": "imports",
   "context": {
